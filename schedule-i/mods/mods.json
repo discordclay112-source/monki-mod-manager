@@ -1,0 +1,222 @@
+[
+    {
+        "name": "ModsApp",
+        "author": "k0Mods",
+        "version": "1.2.3",
+        "description": "Manage your mods settings - from your phone!",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/ModsApp.dll",
+        "dllName": "ModsApp.dll",
+        "hash": "d98554fb"
+    },
+    {
+        "name": "AdvancedDealing",
+        "author": "ManZune",
+        "version": "1.4.1",
+        "description": "Modify dealers to your needs! Let them deliver cash, communicate via messages app, allow more customers, add item slots, negotiate cut %, boost their speed and more.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/AdvancedDealing.Il2Cpp.dll",
+        "dllName": "AdvancedDealing.Il2Cpp.dll",
+        "hash": "5ad6ab2a"
+    },
+    {
+        "name": "S1API",
+        "author": "KaBooMa",
+        "version": "1.6.2",
+        "description": "A Schedule One Mono / Il2Cpp Cross Compatibility Layer",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/S1API.Mono.BepInEx.dll",
+        "dllName": "S1API.Mono.BepInEx.dll",
+        "hash": "073e8340"
+    },
+    {
+        "name": "S1API_Forked",
+        "author": "ifBars",
+        "version": "3.2.0",
+        "description": "S1API is an open source collaboration project to help standardize Schedule One modding processes. The goal is to provide a standard place for common functionalities so you can focus on making content versus reverse engineering the game.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/S1APILoader.MelonLoader.dll",
+        "dllName": "S1APILoader.MelonLoader.dll",
+        "hash": "9393f02d"
+    },
+    {
+        "name": "MLVScan",
+        "author": "ifBars",
+        "version": "2.1.1",
+        "description": "MLVScan is a security-focused MelonLoader plugin designed to detect and disable potentially malicious mods before they can harm your system.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/MLVScan.MelonLoader.dll",
+        "dllName": "MLVScan.MelonLoader.dll",
+        "hash": "0bb10d66"
+    },
+    {
+        "name": "BankingApp",
+        "author": "HazDS",
+        "version": "1.3.1",
+        "description": "A MelonLoader mod for Schedule 1 (v0.4.6f13) that adds a mobile banking app to your in-game phone. Features deposits, withdrawals, auto-deposit, persistent transaction history, notification badges, color themes, and configurable weekly limits.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/BankingApp_Il2cpp.dll",
+        "dllName": "BankingApp_Il2cpp.dll",
+        "hash": "80eab269"
+    },
+    {
+        "name": "StrongerMultidrag",
+        "author": "GrumpyCrouton",
+        "version": "1.0.0",
+        "description": "Makes it so you no longer drop items while rapidly moving during multi-dragging",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/StrongerMultiDrag.dll",
+        "dllName": "StrongerMultiDrag.dll",
+        "hash": "4fcc313a"
+    },
+    {
+        "name": "OverTheCounter",
+        "author": "hdlmrell",
+        "version": "2.0.10",
+        "description": "Build your dream dispensary empire with the OverTheCounter mod! Design fully custom storefronts, hire budtenders for autonomous checkouts, and watch live customer NPCs walk in to consult and buy. Manage it all seamlessly from an in-game phone app!",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/OverTheCounter.Il2Cpp.dll",
+        "dllName": "OverTheCounter.Il2Cpp.dll",
+        "hash": "3734a8c2"
+    },
+    {
+        "name": "Cartel_Enforcer_MONO",
+        "author": "XO_WithSauce",
+        "version": "2.0.0",
+        "description": "Cartel Enforcer adds new features and challenges to the Cartel, including new ambush locations, events, and a better dealer robbery system. Experience the drive-by events, take on mini-quests, and influence the enforced Cartel's presence in new ways!",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/CartelEnforcer.dll",
+        "dllName": "CartelEnforcer.dll",
+        "hash": "b8bfeb01"
+    },
+    {
+        "name": "MoreGuns",
+        "author": "Universal",
+        "version": "1.3.0",
+        "description": "Adds in new guns to the game",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/MoreGunsMono.dll",
+        "dllName": "MoreGunsMono.dll",
+        "hash": "e02656d3"
+    },
+    {
+        "name": "AlwaysShowDistancesOnCompass",
+        "author": "animandan",
+        "version": "1.0.0",
+        "description": "Makes it so the distance to waypoints is always shown on the compass.  By default the game only displayed the distance when you got close, so for example it was hard to determine what order you should do your deals at a glance.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/AlwaysShowDistancesOnCompass.dll",
+        "dllName": "AlwaysShowDistancesOnCompass.dll",
+        "hash": "399ee21e"
+    },
+    {
+        "name": "HireableDeliveryDriver",
+        "author": "notsurewhattoputhere",
+        "version": "1.0.0",
+        "description": "Hire delivery drivers to automatically transport items between loading docks on your properties",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/HireableDeliveryDriver.dll",
+        "dllName": "HireableDeliveryDriver.dll",
+        "hash": "9a25d342"
+    },
+    {
+        "name": "MelonLoader",
+        "author": "LavaGang",
+        "version": "0.7.3",
+        "description": "The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/MonoMod.Utils.dll",
+        "dllName": "MonoMod.Utils.dll",
+        "hash": "09da26db"
+    },
+    {
+        "name": "Choose_Deal_Locations",
+        "author": "meiscool125sTeam",
+        "version": "2.0.2",
+        "description": "Allows you to choose the location you meet your customers.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/ChooseDealLocationOnAccept_IL2CPP.dll",
+        "dllName": "ChooseDealLocationOnAccept_IL2CPP.dll",
+        "hash": "3566a63d"
+    },
+    {
+        "name": "JustEnoughDrugs",
+        "author": "BrandS",
+        "version": "2.0.0",
+        "description": "Enhances the drugs tab in Schedule I with a powerful search bar, advanced filtering (Name, Ingredients, Effects), sorting options (Newest, Addictiveness, Cost, Price, Profit), full recipe display, production cost estimation.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/JustEnoughDrugs.dll",
+        "dllName": "JustEnoughDrugs.dll",
+        "hash": "a3fa3d13"
+    },
+    {
+        "name": "PlantsAlwaysGrowMono",
+        "author": "lasersquid",
+        "version": "1.2.2",
+        "description": "A simple Harmony mod that makes plants grow even after 4AM. Mono version.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/PlantsAlwaysGrowMono.dll",
+        "dllName": "PlantsAlwaysGrowMono.dll",
+        "hash": "2b306ac4"
+    },
+    {
+        "name": "F1TrashNuker",
+        "author": "Flaco",
+        "version": "1.0.0",
+        "description": "Press F1 to instantly destroy all trash items in the scene. Improves performance and reduces clutter. Great for long sessions.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/F1TrashNuker.dll",
+        "dllName": "F1TrashNuker.dll",
+        "hash": "fa6a1ab5"
+    },
+    {
+        "name": "AutoRestockMono",
+        "author": "lasersquid",
+        "version": "1.1.5",
+        "description": "If you're tired of spending all your time restocking shelves and stations, this mod will automatically restock empty slots for you and charge your cash balance or bank account. Configurable through any mod management mod (phone app, etc).",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/AutoRestockMono.dll",
+        "dllName": "AutoRestockMono.dll",
+        "hash": "c1889ac1"
+    },
+    {
+        "name": "CustomTV",
+        "author": "CustomTV",
+        "version": "1.6.4",
+        "description": "Lets you play your own MP4 and Youtube videos on the TV and Signs.",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/CustomTV_Mono.dll",
+        "dllName": "CustomTV_Mono.dll",
+        "hash": "1536e95a"
+    },
+    {
+        "name": "SkillTree_Mono",
+        "author": "CrazyTeam",
+        "version": "1.1.3",
+        "description": "Create a Skilltree system in Schedule I",
+        "game": "Schedule I",
+        "gameId": "schedule-i",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/schedule-i/mods/SkillTree.dll",
+        "dllName": "SkillTree.dll",
+        "hash": "0b71a406"
+    }
+]

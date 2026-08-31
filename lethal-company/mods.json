@@ -1,0 +1,222 @@
+[
+    {
+        "name": "YippeeMod",
+        "author": "sunnobunno",
+        "version": "1.2.4",
+        "description": "Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/YippeeMod.dll",
+        "dllName": "YippeeMod.dll",
+        "hash": "9baca658"
+    },
+    {
+        "name": "ReservedWalkieSlot",
+        "author": "FlipMods",
+        "version": "2.0.7",
+        "description": "Gives a dedicated Walkie slot on the right side of your screen that can optionally be purchased! You can press [X] to activate and speak into the Walkie at anytime.",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/ReservedWalkieSlot.dll",
+        "dllName": "ReservedWalkieSlot.dll",
+        "hash": "072f200d"
+    },
+    {
+        "name": "ReservedFlashlightSlot",
+        "author": "FlipMods",
+        "version": "2.0.10",
+        "description": "Gives a dedicated Flashlight slot on the right side of your screen that can optionally be purchased! Can be toggled with [F] to activate the Flashlight at anytime.",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/ReservedFlashlightSlot.dll",
+        "dllName": "ReservedFlashlightSlot.dll",
+        "hash": "f8b68402"
+    },
+    {
+        "name": "BepInExPack",
+        "author": "BepInEx",
+        "version": "5.4.2305",
+        "description": "BepInEx pack for Mono Unity games. Preconfigured and ready to use.",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/0Harmony.dll",
+        "dllName": "0Harmony.dll",
+        "hash": "64e7f599"
+    },
+    {
+        "name": "ReservedItemSlotCore",
+        "author": "FlipMods",
+        "version": "2.0.55",
+        "description": "The core mod for all ReservedItemSlot mods. Adds functionality for all ReservedItemSlot mods and adds API functions! LCVR Compatible",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/ReservedItemSlotCore.dll",
+        "dllName": "ReservedItemSlotCore.dll",
+        "hash": "19f684e6"
+    },
+    {
+        "name": "Coroner",
+        "author": "EliteMasterEric",
+        "version": "2.4.1",
+        "description": "Add Cause of Death to the performance report, now with a Mod API!",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/Coroner.dll",
+        "dllName": "Coroner.dll",
+        "hash": "e96b21b8"
+    },
+    {
+        "name": "LethalLib",
+        "author": "Evaisa",
+        "version": "1.2.0",
+        "description": "Personal modding tools for Lethal Company",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/LethalLib.dll",
+        "dllName": "LethalLib.dll",
+        "hash": "9a733621"
+    },
+    {
+        "name": "Mimics",
+        "author": "x753",
+        "version": "2.7.4",
+        "description": "Adds a dangerous new monster to the game. Can you figure out what's real or will you be devoured?",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/Mimics.dll",
+        "dllName": "Mimics.dll",
+        "hash": "e6f7503b"
+    },
+    {
+        "name": "CoilHeadStare",
+        "author": "TwinDimensionalProductions",
+        "version": "1.1.0",
+        "description": "Makes the Coil Head slowly turn and face you even while you are looking directly at it. Reminding you that it only needs you to falter for a single moment. Extra feature: Coil Head spring bounces when hit with a shovel.",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/CoilHeadStare.dll",
+        "dllName": "CoilHeadStare.dll",
+        "hash": "8ed5fd7a"
+    },
+    {
+        "name": "TooManySuits",
+        "author": "Verity",
+        "version": "2.0.4",
+        "description": "More Suits Addon that adds pages to the suit rack.",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/TooManySuits.dll",
+        "dllName": "TooManySuits.dll",
+        "hash": "49342bf7"
+    },
+    {
+        "name": "MoreCompany",
+        "author": "notnotnotswipez",
+        "version": "1.14.0",
+        "description": "A stable lobby player count expansion mod. With cosmetics!",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/MoreCompany.dll",
+        "dllName": "MoreCompany.dll",
+        "hash": "f7572e17"
+    },
+    {
+        "name": "Mirage",
+        "author": "qwbarch",
+        "version": "1.29.1",
+        "description": "Voice mimicking where all players hear the same voice, with a focus on masked enemies. Alternative to Skinwalkers + MaskedEnemyOverhaul.",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/Mirage.Compatibility.dll",
+        "dllName": "Mirage.Compatibility.dll",
+        "hash": "fa89d4a2"
+    },
+    {
+        "name": "BetterStamina",
+        "author": "FlipMods",
+        "version": "1.5.7",
+        "description": "Tweaks stamina regen/consumption, as well as lessens the penalty of speed/stamina based on weight. Config values are fully customizable for stamina, movement speed, ladder climbing speed, jumping, etc, and will sync with the host.",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/BetterStamina.dll",
+        "dllName": "BetterStamina.dll",
+        "hash": "a97571d7"
+    },
+    {
+        "name": "LethalLevelLoader",
+        "author": "IAmBatby",
+        "version": "1.7.12",
+        "description": "A Custom API to support the manual and dynamic integration of all forms of custom content in Lethal Company. (v81 Compatible)",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/LethalLevelLoader.dll",
+        "dllName": "LethalLevelLoader.dll",
+        "hash": "f8d8ed6c"
+    },
+    {
+        "name": "WalkieUse",
+        "author": "Renegades",
+        "version": "1.5.0",
+        "description": "Press R to use a walkie talkie in your inventory. CLIENT SIDE. REBINDABLE IN-GAME",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/Walkie.dll",
+        "dllName": "Walkie.dll",
+        "hash": "d28469bf"
+    },
+    {
+        "name": "FlashlightToggle",
+        "author": "Renegades",
+        "version": "1.5.0",
+        "description": "Press F to toggle a flashlight in your inventory. CLIENT SIDE. REBINDABLE IN-GAME",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/FlashlightToggle.dll",
+        "dllName": "FlashlightToggle.dll",
+        "hash": "274a5af8"
+    },
+    {
+        "name": "HealthMetrics",
+        "author": "matsuura",
+        "version": "1.0.2",
+        "description": "Add a simple health counter on your HUD",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/HealthMetrics.dll",
+        "dllName": "HealthMetrics.dll",
+        "hash": "226ca44f"
+    },
+    {
+        "name": "ControlCompany",
+        "author": "ControlCompany",
+        "version": "1.3.3",
+        "description": "Play as the monsters found in Lethal Company and scare your friends!",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/ControlCompany.dll",
+        "dllName": "ControlCompany.dll",
+        "hash": "e2ca8391"
+    },
+    {
+        "name": "SpectateEnemies",
+        "author": "AllToasters",
+        "version": "2.9.1",
+        "description": "Allows you to spectate enemies when dead.",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/SpectateEnemy.dll",
+        "dllName": "SpectateEnemy.dll",
+        "hash": "851cb8be"
+    },
+    {
+        "name": "FacilityMeltdown",
+        "author": "loaforc",
+        "version": "2.7.5",
+        "description": "Maybe taking the apparatus out isn't such a great idea...",
+        "game": "Lethal Company",
+        "gameId": "lethal-company",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/lethal-company/mods/FacilityMeltdown.dll",
+        "dllName": "FacilityMeltdown.dll",
+        "hash": "6867a308"
+    }
+]

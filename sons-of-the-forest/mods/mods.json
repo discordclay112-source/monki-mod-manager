@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Flight",
+        "author": "Fang86",
+        "version": "1.1.1",
+        "description": "Allows you to fly around the map",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/Flight.dll",
+        "dllName": "Flight.dll",
+        "hash": "5c40801b"
+    },
+    {
+        "name": "InfiniteZipline",
+        "author": "ElGringo",
+        "version": "1.2.0",
+        "description": "Allows infinite zipline length, and adds configurable MaxVelocity, Acceleration, MaxRopeLength and MaxFiringRange for ziplines",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/InfiniteZipline.dll",
+        "dllName": "InfiniteZipline.dll",
+        "hash": "7224614c"
+    },
+    {
+        "name": "FasterInventoryPanning",
+        "author": "Fang86",
+        "version": "1.1.0",
+        "description": "Allows you to adjust the inventory camera's panning speed, cursor speed, and FOV",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/FastInventoryPan.dll",
+        "dllName": "FastInventoryPan.dll",
+        "hash": "b2769318"
+    },
+    {
+        "name": "DebugConsole",
+        "author": "CallMeSlinky",
+        "version": "1.0.0",
+        "description": "Enables the debug console.",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/Slinky_SOF_DebugConsole.dll",
+        "dllName": "Slinky_SOF_DebugConsole.dll",
+        "hash": "125b6d80"
+    },
+    {
+        "name": "BowTrajectory",
+        "author": "willis81808",
+        "version": "2.0.0",
+        "description": "See the predicted path of arrows",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/BowTrajectory.dll",
+        "dllName": "BowTrajectory.dll",
+        "hash": "5bcdfdd6"
+    },
+    {
+        "name": "BestUi",
+        "author": "Chenxi",
+        "version": "0.0.2",
+        "description": "BestUi",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/BestUi.dll",
+        "dllName": "BestUi.dll",
+        "hash": "ac507df3"
+    },
+    {
+        "name": "GliderPickup",
+        "author": "SmokyAce",
+        "version": "1.2.7",
+        "description": "You can now conveniently carry your glider with you at all times!",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/GliderPickup.dll",
+        "dllName": "GliderPickup.dll",
+        "hash": "e07d4802"
+    },
+    {
+        "name": "KnightVPickup",
+        "author": "SmokyAce",
+        "version": "1.0.3",
+        "description": "You can now conveniently carry your Knight V with you at all times!",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/KnightVPickup.dll",
+        "dllName": "KnightVPickup.dll",
+        "hash": "7a14b0eb"
+    },
+    {
+        "name": "SOTF_Autosave",
+        "author": "Mythic",
+        "version": "0.1.0",
+        "description": "Performs an autosave over a configurable interval, once every 5 minutes by default",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/Autosave.dll",
+        "dllName": "Autosave.dll",
+        "hash": "70129843"
+    },
+    {
+        "name": "SOTFEdit",
+        "author": "codengine",
+        "version": "0.12.10",
+        "description": "An open-source savegame editor for Sons of The Forest",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/Newtonsoft.Json.dll",
+        "dllName": "Newtonsoft.Json.dll",
+        "hash": "e0a4803d"
+    },
+    {
+        "name": "SOTF_Thomas_the_Destroyer",
+        "author": "Mythic",
+        "version": "0.1.0",
+        "description": "Has a small chance of spawning a friend on a set interval. Single player only.",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/ThomasTheDestroyer.dll",
+        "dllName": "ThomasTheDestroyer.dll",
+        "hash": "abe8cb4b"
+    },
+    {
+        "name": "LogCarryAmount",
+        "author": "SmokyAce_And_ThirtyTwelve",
+        "version": "1.4.0",
+        "description": "Makes the player able to pickup multiple logs, planks and stones. In short terms the mod increases Maximum carrying capacity of these items. Works in coop",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/LogCarryAmount.dll",
+        "dllName": "LogCarryAmount.dll",
+        "hash": "7445f12e"
+    },
+    {
+        "name": "Mache",
+        "author": "willis81808",
+        "version": "0.2.0",
+        "description": "The Fundamental SoTF Modding Framework",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/Mache.dll",
+        "dllName": "Mache.dll",
+        "hash": "a2dcbf45"
+    },
+    {
+        "name": "KelvinCloner",
+        "author": "jakzo",
+        "version": "0.2.0",
+        "description": "Allows having multiple helpers.",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/KelvinCloner.dll",
+        "dllName": "KelvinCloner.dll",
+        "hash": "d2cdc545"
+    },
+    {
+        "name": "BepInEx_ConfigurationManager",
+        "author": "faulty",
+        "version": "1.3.1",
+        "description": "Mod to assist with configuration of BepInEx mods",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/BepInExConfigManager.Il2Cpp.Patcher.dll",
+        "dllName": "BepInExConfigManager.Il2Cpp.Patcher.dll",
+        "hash": "3e27c07d"
+    },
+    {
+        "name": "RestlessKelvin",
+        "author": "codengine",
+        "version": "1.0.0",
+        "description": "Kelvin will never take a break while he executes your orders with this mod",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/RestlessKelvin.dll",
+        "dllName": "RestlessKelvin.dll",
+        "hash": "0f5e6040"
+    },
+    {
+        "name": "Crash_Site_Selector",
+        "author": "faulty",
+        "version": "0.0.1",
+        "description": "Allows you to select the crash site",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/faulty.soft.crashSiteSelector.dll",
+        "dllName": "faulty.soft.crashSiteSelector.dll",
+        "hash": "c340807b"
+    },
+    {
+        "name": "BetterLighter",
+        "author": "SmokyAce",
+        "version": "1.0.0",
+        "description": "BetterLighter Mod enhances the lighter's functionality by increasing its brightness, range, and color",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/BetterLighter.dll",
+        "dllName": "BetterLighter.dll",
+        "hash": "45133f82"
+    },
+    {
+        "name": "BuildUnderwater",
+        "author": "faulty",
+        "version": "1.0.0",
+        "description": "Allows you to build underwater",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/faulty.sotf.buildUnderwater.dll",
+        "dllName": "faulty.sotf.buildUnderwater.dll",
+        "hash": "f9c3e59d"
+    },
+    {
+        "name": "UnityExplorer_IL2CPP",
+        "author": "GTFOModding",
+        "version": "4.9.1",
+        "description": "An in-game UI for exploring, debugging and modifying Unity games.",
+        "game": "Sons Of The Forest",
+        "gameId": "sons-of-the-forest",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/sons-of-the-forest/mods/UnityExplorer.BIE.IL2CPP.CoreCLR.dll",
+        "dllName": "UnityExplorer.BIE.IL2CPP.CoreCLR.dll",
+        "hash": "b6d45788"
+    }
+]

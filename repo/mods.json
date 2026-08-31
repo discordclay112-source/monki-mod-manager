@@ -1,0 +1,222 @@
+[
+    {
+        "name": "REPOConfig",
+        "author": "nickklmao",
+        "version": "1.2.6",
+        "description": "Edit mod configs in-game!",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/REPOConfig.dll",
+        "dllName": "REPOConfig.dll",
+        "hash": "1162ff86"
+    },
+    {
+        "name": "REPOLib",
+        "author": "Zehs",
+        "version": "4.2.0",
+        "description": "Library for adding content to R.E.P.O.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/REPOLib.dll",
+        "dllName": "REPOLib.dll",
+        "hash": "da8530cb"
+    },
+    {
+        "name": "BepInExPack",
+        "author": "BepInEx",
+        "version": "5.4.2305",
+        "description": "BepInEx pack for Mono Unity games. Preconfigured and ready to use.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/0Harmony.dll",
+        "dllName": "0Harmony.dll",
+        "hash": "64e7f599"
+    },
+    {
+        "name": "ExtractionPointConfirmButton",
+        "author": "Zehs",
+        "version": "1.2.0",
+        "description": "Adds a confirm button to extraction points.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/com.github.zehsteam.ExtractionPointConfirmButton.dll",
+        "dllName": "com.github.zehsteam.ExtractionPointConfirmButton.dll",
+        "hash": "5478b1e7"
+    },
+    {
+        "name": "DeadTTS",
+        "author": "flipf17",
+        "version": "1.1.1",
+        "description": "Allows you to hear TTS from dead players. Configurable.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/REPO-DeadTTS.dll",
+        "dllName": "REPO-DeadTTS.dll",
+        "hash": "07f740cb"
+    },
+    {
+        "name": "MoreUpgrades",
+        "author": "BULLETBOT",
+        "version": "1.7.3",
+        "description": "Adds more unique upgrade items and is highly configurable.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/MoreUpgrades.dll",
+        "dllName": "MoreUpgrades.dll",
+        "hash": "fd18784b"
+    },
+    {
+        "name": "Shop_Items_Spawn_in_Level",
+        "author": "itsUndefined",
+        "version": "1.7.21",
+        "description": "upgrade items may spawn in the level, now you can find upgrades while exploring instead of only being able to purchase them.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/REPO_Shop_Items_in_Level.dll",
+        "dllName": "REPO_Shop_Items_in_Level.dll",
+        "hash": "3ed735c7"
+    },
+    {
+        "name": "Mimic",
+        "author": "eth9n",
+        "version": "1.1.6",
+        "description": "Mimic is a Skinwalker (Lethal Company Mod) inspired mod for R.E.P.O that allows the creatures of the game to sound like you or your friends!",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/Mimics.dll",
+        "dllName": "Mimics.dll",
+        "hash": "bbf3585f"
+    },
+    {
+        "name": "MenuLib",
+        "author": "nickklmao",
+        "version": "2.5.4",
+        "description": "A library for creating UI!",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/MenuLib.dll",
+        "dllName": "MenuLib.dll",
+        "hash": "0f0da99a"
+    },
+    {
+        "name": "BepInEx_Faster_Load_AssetBundles_Patcher",
+        "author": "DiFFoZ",
+        "version": "1.1.0",
+        "description": "Makes start up loading time faster",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/BepInExFasterLoadAssetBundles.dll",
+        "dllName": "BepInExFasterLoadAssetBundles.dll",
+        "hash": "f0bc12b6"
+    },
+    {
+        "name": "MoreHead",
+        "author": "YMC_MHZ",
+        "version": "1.4.5",
+        "description": "Customizable cosmetics. 简单好玩的装饰模组，提供unitypackage，供玩家自行导入模型。",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/MoreHead.dll",
+        "dllName": "MoreHead.dll",
+        "hash": "a8300063"
+    },
+    {
+        "name": "Map_Value_Tracker",
+        "author": "Tansinator",
+        "version": "1.3.0",
+        "description": "Tracks all valuable items on the map. Updates in real-time.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/MapValueTracker.dll",
+        "dllName": "MapValueTracker.dll",
+        "hash": "d646e9a6"
+    },
+    {
+        "name": "XH_DamageShow_EnemyHealthBar",
+        "author": "XiaohaiMod",
+        "version": "1.0.3",
+        "description": "Enemy Health Bar and Damage Value Display by Xiaohai",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/REPO MOD.dll",
+        "dllName": "REPO MOD.dll",
+        "hash": "49af1b18"
+    },
+    {
+        "name": "DeathHeadHopper",
+        "author": "Cronchy",
+        "version": "2.1.8",
+        "description": "Allows you to hop around after death (enhanced spectate)",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/DeathHeadHopper.dll",
+        "dllName": "DeathHeadHopper.dll",
+        "hash": "f3af1f54"
+    },
+    {
+        "name": "AsyncLoggers",
+        "author": "mattymatty",
+        "version": "2.2.3",
+        "description": "YEET the logs to their own thread!",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/AsyncLoggers.dll",
+        "dllName": "AsyncLoggers.dll",
+        "hash": "55b1d9d7"
+    },
+    {
+        "name": "loaforcsSoundAPI",
+        "author": "loaforc",
+        "version": "2.0.13",
+        "description": "A general use library to replace sounds in Unity games.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/me.loaforc.soundapi.dll",
+        "dllName": "me.loaforc.soundapi.dll",
+        "hash": "89ef6e21"
+    },
+    {
+        "name": "Wesleys_Valuables",
+        "author": "Magic_Wesley",
+        "version": "1.0.4",
+        "description": "Adds a bunch new valuables",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/WesleysItemProj.dll",
+        "dllName": "WesleysItemProj.dll",
+        "hash": "b149c27a"
+    },
+    {
+        "name": "Enemy_And_Valuable_Spawn_Manager",
+        "author": "soundedsquash",
+        "version": "0.7.1",
+        "description": "Updated for 0.4.0+! Disable/Remove which enemies, valuables, items, and levels are allowed during the game! Only the host needs this mod.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/SpawnManager.dll",
+        "dllName": "SpawnManager.dll",
+        "hash": "769949ca"
+    },
+    {
+        "name": "Wesleys_Enemies",
+        "author": "Magic_Wesley",
+        "version": "1.3.6",
+        "description": "Adds a few new enemies",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/WesleysEnemies.dll",
+        "dllName": "WesleysEnemies.dll",
+        "hash": "524ca567"
+    },
+    {
+        "name": "AutoHookGenPatcher",
+        "author": "Hamunii",
+        "version": "1.1.1",
+        "description": "Automatically generates MonoMod.RuntimeDetour.HookGen's MMHOOK files during the BepInEx preloader phase.",
+        "game": "R.E.P.O.",
+        "gameId": "repo",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/repo/mods/BepInEx.MonoMod.AutoHookGenPatcher.dll",
+        "dllName": "BepInEx.MonoMod.AutoHookGenPatcher.dll",
+        "hash": "bcf2c67d"
+    }
+]

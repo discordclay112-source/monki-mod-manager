@@ -1,0 +1,222 @@
+[
+    {
+        "name": "DetourContext_Dispose_Fix",
+        "author": "Hamunii",
+        "version": "1.0.9",
+        "description": "A BepInEx patcher to fix MonoMod.RuntimeDetour's DetourContext.Dispose not working.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/Hamunii.DetourContext.Dispose_Fix.dll",
+        "dllName": "Hamunii.DetourContext.Dispose_Fix.dll",
+        "hash": "c0d70061"
+    },
+    {
+        "name": "Virality",
+        "author": "MaxWasUnavailable",
+        "version": "1.6.0",
+        "description": "Extends the max number of players that can play in a lobby, and adds late joining!",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/MaxWasUnavailable.Virality.dll",
+        "dllName": "MaxWasUnavailable.Virality.dll",
+        "hash": "cc646863"
+    },
+    {
+        "name": "MoreColors",
+        "author": "ViViKo",
+        "version": "1.5.1",
+        "description": "Adds more face colors & applies to suit",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/ViViKo.MoreColors.dll",
+        "dllName": "ViViKo.MoreColors.dll",
+        "hash": "edbd7439"
+    },
+    {
+        "name": "MakeMeRagdoll",
+        "author": "RamuneNeptune",
+        "version": "1.1.2",
+        "description": "Press your keybind (default: `) and ragdoll in front of your friends! Or just yourself, if you haven't any friends. But that's okay, we won't judge. The duration of your ragdollery is also configurable in case you just want to lay there for a while.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/Ramune.MakeMeRagdoll.dll",
+        "dllName": "Ramune.MakeMeRagdoll.dll",
+        "hash": "6c272a83"
+    },
+    {
+        "name": "ModifyMonsterSpawner",
+        "author": "Staller",
+        "version": "1.0.0",
+        "description": "Try to survive in the old world with an increased number of monsters!",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/staller.ModifyMonsterSpawner.dll",
+        "dllName": "staller.ModifyMonsterSpawner.dll",
+        "hash": "d84c6d0b"
+    },
+    {
+        "name": "AutoHookGenPatcher",
+        "author": "Hamunii",
+        "version": "1.1.1",
+        "description": "Automatically generates MonoMod.RuntimeDetour.HookGen's MMHOOK files during the BepInEx preloader phase.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/BepInEx.MonoMod.AutoHookGenPatcher.dll",
+        "dllName": "BepInEx.MonoMod.AutoHookGenPatcher.dll",
+        "hash": "bcf2c67d"
+    },
+    {
+        "name": "Flashcard",
+        "author": "loaforc",
+        "version": "0.3.3",
+        "description": "Makes the Video Camera more configurable!",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/me.loaforc.Flashcard.dll",
+        "dllName": "me.loaforc.Flashcard.dll",
+        "hash": "17c2346c"
+    },
+    {
+        "name": "BetterLobby",
+        "author": "sonodima",
+        "version": "1.2.2",
+        "description": "Improves the matchmaking system to allow friend lobbies with fill and a proper late-join!",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/BetterLobby.dll",
+        "dllName": "BetterLobby.dll",
+        "hash": "f3ee29de"
+    },
+    {
+        "name": "MoreSounds",
+        "author": "ViViKo",
+        "version": "1.1.0",
+        "description": "Adds the ability to add more sounds to the SoundPlayer",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/ViViKo.MoreSounds.dll",
+        "dllName": "ViViKo.MoreSounds.dll",
+        "hash": "d699c16e"
+    },
+    {
+        "name": "Mirage",
+        "author": "cw_qwbarch",
+        "version": "1.5.0",
+        "description": "Every enemy can mimic the voice of any player currently in the game.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/Mirage.dll",
+        "dllName": "Mirage.dll",
+        "hash": "78fe5eaf"
+    },
+    {
+        "name": "CessilCellsCeaChells",
+        "author": "www_Day_Dream",
+        "version": "0.3.6",
+        "description": "Allows installed plugins to request creation of Fields, Properties, Methods, and more in Managed DLLs.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/CessilCellsCeaChells.dll",
+        "dllName": "CessilCellsCeaChells.dll",
+        "hash": "fe6e81ad"
+    },
+    {
+        "name": "DeathStatus",
+        "author": "Clementinise",
+        "version": "1.1.0",
+        "description": "Instantly see which divers are alive or dead with a clear indicator on the diving bell monitor.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/DeathStatus.dll",
+        "dllName": "DeathStatus.dll",
+        "hash": "d5b55a79"
+    },
+    {
+        "name": "HellDivers",
+        "author": "Playboi",
+        "version": "1.0.0",
+        "description": "Adds Helldivers style diving into the game! Press F to dive",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/HellDivers.dll",
+        "dllName": "HellDivers.dll",
+        "hash": "f883a208"
+    },
+    {
+        "name": "FoundFootage",
+        "author": "Assasans",
+        "version": "0.4.5",
+        "description": "Mod that adds real lost footage from other players to your Old World.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/jp.assasans.cw.FoundFootage.dll",
+        "dllName": "jp.assasans.cw.FoundFootage.dll",
+        "hash": "325e73cf"
+    },
+    {
+        "name": "CWMouseWheel",
+        "author": "zatrit",
+        "version": "1.0.21",
+        "description": "Allows to switch inventory slots using mouse wheel",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/CWMouseWheel.dll",
+        "dllName": "CWMouseWheel.dll",
+        "hash": "8d5a9e35"
+    },
+    {
+        "name": "EmoteWheel",
+        "author": "Playboi",
+        "version": "1.0.0",
+        "description": "Adds an emote wheel to the game default key 'C'",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/EmoteWheel.dll",
+        "dllName": "EmoteWheel.dll",
+        "hash": "5e53c42f"
+    },
+    {
+        "name": "Boombox",
+        "author": "hyydsz",
+        "version": "1.1.5",
+        "description": "Added a Boombox to the Content Warning",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/Boombox.dll",
+        "dllName": "Boombox.dll",
+        "hash": "06a04931"
+    },
+    {
+        "name": "More_Comments",
+        "author": "GamingFrame",
+        "version": "1.2.1",
+        "description": "This mod revamps all current comments and adds new ones to enhance the final rendering of videos.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/GamingFrame.MoreComments.dll",
+        "dllName": "GamingFrame.MoreComments.dll",
+        "hash": "4ac7b129"
+    },
+    {
+        "name": "SkipIntroScreen",
+        "author": "RamuneNeptune",
+        "version": "1.0.1",
+        "description": "You could press space to skip the startup intro, but you are an busy person and need those extra couple seconds. Overrides the startup intro so it never appears.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/Ramune.SkipIntroScreen.dll",
+        "dllName": "Ramune.SkipIntroScreen.dll",
+        "hash": "b43dfdef"
+    },
+    {
+        "name": "Shuv",
+        "author": "www_Day_Dream",
+        "version": "1.1.0",
+        "description": "A Client-Side mod that lets you shove your friends.",
+        "game": "Content Warning",
+        "gameId": "content-warning",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/content-warning/mods/Shuv.dll",
+        "dllName": "Shuv.dll",
+        "hash": "4ec55871"
+    }
+]

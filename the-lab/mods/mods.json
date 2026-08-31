@@ -1,0 +1,35 @@
+[
+    {
+        "name": "SmoothLocomotion",
+        "author": "LabModding",
+        "version": "1.0.0",
+        "description": "A SmoothLocomotion mod for The Lab.",
+        "game": "The Lab",
+        "gameId": "the-lab",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/the-lab/mods/SmoothLocomotion.dll",
+        "dllName": "SmoothLocomotion.dll",
+        "hash": "cf8837bc"
+    },
+    {
+        "name": "TheLabModdingLib",
+        "author": "LabModding",
+        "version": "1.0.0",
+        "description": "A mod lib for Valve's The Lab.",
+        "game": "The Lab",
+        "gameId": "the-lab",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/the-lab/mods/TheLabModdingLib.dll",
+        "dllName": "TheLabModdingLib.dll",
+        "hash": "97cd3be9"
+    },
+    {
+        "name": "BepInExPack",
+        "author": "BepInEx",
+        "version": "5.4.2305",
+        "description": "BepInEx pack for Mono Unity games. Preconfigured and ready to use.",
+        "game": "The Lab",
+        "gameId": "the-lab",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/the-lab/mods/0Harmony.dll",
+        "dllName": "0Harmony.dll",
+        "hash": "64e7f599"
+    }
+]
