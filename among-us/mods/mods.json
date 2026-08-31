@@ -1,0 +1,13 @@
+[
+    {
+        "name": "DarkChat",
+        "author": "Eclipse",
+        "version": "1.0.0",
+        "description": "DarkChat mod for Among Us",
+        "game": "Among Us",
+        "gameId": "among-us",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/among-us/mods/DarkChat.dll",
+        "dllName": "DarkChat.dll",
+        "hash": "43767dbe"
+    }
+]
