@@ -462,6 +462,17 @@
         "hash": "b12a3cd8"
     },
     {
+        "name": "Sentinel",
+        "author": "Gorilla Tag Modding Community",
+        "version": "1.0.0",
+        "description": "A Gorilla tag mod checker that cost $60",
+        "game": "Gorilla Tag",
+        "gameId": "gorilla-tag",
+        "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/gtag/mods/Sentinel.dll",
+        "dllName": "Sentinel.dll",
+        "hash": "4c9a73b6"
+    },
+    {
         "name": "Sevs.Better.Nametags",
         "author": "Gorilla Tag Modding Community",
         "version": "1.0.0",
