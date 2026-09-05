@@ -904,10 +904,21 @@
             "hash": "08153477"
         },
         {
-            "name": "VoidKameraMod",
-            "author": "Gorilla Tag Modding Community",
+            "name": "VOID-AC",
+            "author": "Eclipse",
             "version": "1.0.0",
-            "description": "A Gorilla Tag mod: VoidKameraMod",
+            "description": "Void's Anti-Cheat",
+            "game": "Gorilla Tag",
+            "gameId": "gorilla-tag",
+            "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/gtag/mods/VOID-AC.dll",
+            "dllName": "VOID-AC.dll",
+            "hash": "0b525375"
+        },
+        {
+            "name": "VoidKameraMod",
+            "author": "Eclipse",
+            "version": "1.0.0",
+            "description": "Void's Kamera Mod",
             "game": "Gorilla Tag",
             "gameId": "gorilla-tag",
             "downloadUrl": "https://raw.githubusercontent.com/discordclay112-source/monki-mod-manager/main/gtag/mods/VoidKameraMod.dll",
